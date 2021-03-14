@@ -1,3 +1,3 @@
 # hello
 test for software engineering
-author Soonchan Kwon
+author: Soonchan Kwon
